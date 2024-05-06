@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ErrorHandlingTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-05-05T15:28:00" hostname="DESKTOP-QO0S8S2" time="0.48">
+  <properties/>
+  <testcase name="testThrowIllegalArgumentExceptionWithDetailMessage()" classname="ErrorHandlingTest" time="0.393"/>
+  <testcase name="testReturnOptionalInstance()" classname="ErrorHandlingTest" time="0.007"/>
+  <testcase name="testThrowCustomUncheckedException()" classname="ErrorHandlingTest" time="0.007"/>
+  <testcase name="testThrowCustomCheckedExceptionWithDetailMessage()" classname="ErrorHandlingTest" time="0.003"/>
+  <testcase name="testThrowCustomUncheckedExceptionWithDetailMessage()" classname="ErrorHandlingTest" time="0.005"/>
+  <testcase name="testThrowIllegalArgumentException()" classname="ErrorHandlingTest" time="0.003"/>
+  <testcase name="testThrowAnyUncheckedException()" classname="ErrorHandlingTest" time="0.005"/>
+  <testcase name="testThrowAnyCheckedExceptionWithDetailMessage()" classname="ErrorHandlingTest" time="0.003"/>
+  <testcase name="testThrowAnyCheckedException()" classname="ErrorHandlingTest" time="0.006"/>
+  <testcase name="testThrowAnyUncheckedExceptionWithDetailMessage()" classname="ErrorHandlingTest" time="0.003"/>
+  <testcase name="testThrowCustomCheckedException()" classname="ErrorHandlingTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
